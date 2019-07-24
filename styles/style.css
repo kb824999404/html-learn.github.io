@@ -1,0 +1,28 @@
+h1
+{
+    background-color: #6495ed;
+    color:red;
+    text-align: center;
+    font-size:40px;
+}
+p
+{
+    background-color: #e0ffff;
+    text-indent:50px;
+    font-family:'Times New Roman', Times, serif;
+}
+p.ex
+{
+    color:rgb(0,0,255);
+}
+div
+{
+    background-color: #b0c4de;
+}
+ul.a{list-style-type: square;}
+ol.b{list-style-type: upper-roman;}
+ul.c
+{
+    list-style-image: url('1.jpg');
+    list-style-position:inside    
+}
