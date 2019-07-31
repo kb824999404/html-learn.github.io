@@ -1,1 +1,1 @@
-HTML Learn
+JS Learn
